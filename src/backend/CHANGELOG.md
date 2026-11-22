@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/skux4life/devops-study-app/compare/backend-v0.1.0...backend-v0.1.1) (2026-11-22)
+
+
+### Bug Fixes
+
+* **backend:** trigger ci ([#18](https://github.com/skux4life/devops-study-app/issues/18)) ([e32b464](https://github.com/skux4life/devops-study-app/commit/e32b464b0ba3e3ed52a88d5b552a3a42c4ba7e41))
+
 ## 0.1.0 (2026-11-11)
 
 
