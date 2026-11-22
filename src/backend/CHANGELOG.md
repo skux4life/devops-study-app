@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/skux4life/devops-study-app/compare/backend-v0.1.1...backend-v0.1.2) (2026-11-22)
+
+
+### Bug Fixes
+
+* **gha:** filenaming ([#20](https://github.com/skux4life/devops-study-app/issues/20)) ([b0360c9](https://github.com/skux4life/devops-study-app/commit/b0360c9f9229e3639fc986abd60b01a331de229d))
+
 ## [0.1.1](https://github.com/skux4life/devops-study-app/compare/backend-v0.1.0...backend-v0.1.1) (2026-11-22)
 
 
