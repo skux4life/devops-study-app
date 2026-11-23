@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/skux4life/devops-study-app/compare/backend-v0.1.2...backend-v0.1.3) (2026-11-23)
+
+
+### Bug Fixes
+
+* **gha:** fix outputs ([#22](https://github.com/skux4life/devops-study-app/issues/22)) ([6abf57d](https://github.com/skux4life/devops-study-app/commit/6abf57d07aa0afd8b56f487072a67c241abb9187))
+
 ## [0.1.2](https://github.com/skux4life/devops-study-app/compare/backend-v0.1.1...backend-v0.1.2) (2026-11-22)
 
 
